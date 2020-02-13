@@ -1,0 +1,6 @@
+bind "mouse4" "hegren;flash;flash;sgren"
+bind "F5" "defuser;vesthelm"
+bind "F2" "deagle;secammo;m4a1;primammo"
+
+
+5 "Ikabod" 264 STEAM_0:1:151074138   1 00:15   32    0
